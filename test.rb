@@ -1,3 +1,5 @@
+# OTHER DUDE'S CODE 
+
 def directors_totals(nds)
   result = {}
   dir_index = 0
